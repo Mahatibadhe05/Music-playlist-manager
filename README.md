@@ -26,9 +26,8 @@ Music-playlist-manager/
 │
 ├── common_playlist.json
 ├── multi_user_playlist.py
-├── playlist_app.py
-├── playlist_manager.py
-└── README.md
+├── README.md
+└── data/
 ```
 
 ## How to Run
