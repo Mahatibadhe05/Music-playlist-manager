@@ -21,8 +21,8 @@ A simple command-line music playlist manager built with Python. The application 
 
 ## Project Structure
 
-```
-Music-Playlist-Manager/
+```text
+Music-playlist-manager/
 │
 ├── common_playlist.json
 ├── multi_user_playlist.py
