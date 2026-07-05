@@ -5,12 +5,11 @@ A simple command-line music playlist manager built with Python. The application 
 ## Features
 
 - View playlist
-- Add new songs
-- Delete songs
-- Persistent data storage using JSON
+- Add songs to a personal playlist
+- Delete songs from a personal playlist
 - Multi-user playlist support
-- Automatic playlist creation for new users
-- Simple command-line interface
+- Persistent storage using JSON
+- Common playlist shared across users
 
 ## Technologies Used
 
